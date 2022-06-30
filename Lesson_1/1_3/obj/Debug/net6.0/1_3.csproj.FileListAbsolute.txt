@@ -1,0 +1,15 @@
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\bin\Debug\net6.0\1_3.exe
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\bin\Debug\net6.0\1_3.deps.json
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\bin\Debug\net6.0\1_3.runtimeconfig.json
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\bin\Debug\net6.0\1_3.dll
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\bin\Debug\net6.0\1_3.pdb
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\obj\Debug\net6.0\1_3.csproj.AssemblyReference.cache
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\obj\Debug\net6.0\1_3.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\obj\Debug\net6.0\1_3.AssemblyInfoInputs.cache
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\obj\Debug\net6.0\1_3.AssemblyInfo.cs
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\obj\Debug\net6.0\1_3.csproj.CoreCompileInputs.cache
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\obj\Debug\net6.0\1_3.dll
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\obj\Debug\net6.0\refint\1_3.dll
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\obj\Debug\net6.0\1_3.pdb
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\obj\Debug\net6.0\1_3.genruntimeconfig.cache
+H:\GitED\git\Lesson C#\All-for-C-\Lesson_1\1_3\obj\Debug\net6.0\ref\1_3.dll
